@@ -1,0 +1,24 @@
+BOM for budget balance bot
+--------------------------
+
+K Lawson 
+7 may 2014
+
+Item	Desc					Cost 	Ref
+--------------------------------------------------------------	
+B1	8xAAA battery holder			£02.58	Ebay 
+F1	Fuse 2A					£01.00			
+S1	Switch					£00.99	Maplin N19CL
+U3	L9110 H Bridge				£00.99	Ebay
+C1,2	100nF Cap 50V				£00.99	Ebay
+M1,M2	6V 133RPM Motor Incl Wheels		£18.08	Ebay 
+	JGA25-370-6V 133RPM
+U4	Mini pro 16Mhz 3.3/5V enhancement	£05.95	Ebay
+U1	HC-05 bluetooth transceiver		£03.35	Ebay
+U2	9 DOF IMU GY85 ITG3205 ADXL345 MHC5883	£06.00	Ebay
+xx	5x 2.54mm header sockets		£01.19	Ebay
+xx 	24pin DIP Socket for arduino		£01.50	Ebay
+xx	Cable Trunking (Chassis)		Free issue
+xx 	8xAAA Hybrio batteries			Free issue
+
+
