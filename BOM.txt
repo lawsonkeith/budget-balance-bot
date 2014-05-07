@@ -6,7 +6,7 @@ K Lawson
 
 Item	Desc					Cost 	Ref
 --------------------------------------------------------------	
-B1	8xAAA battery holder			£02.58	Ebay 
+B1	8xAAA battery holder (open frame)	£02.58	Ebay 
 F1	Fuse 2A					£01.00			
 S1	Switch					£00.99	Maplin N19CL
 U3	L9110 H Bridge				£00.99	Ebay
@@ -16,9 +16,18 @@ M1,M2	6V 133RPM Motor Incl Wheels		£18.08	Ebay
 U4	Mini pro 16Mhz 3.3/5V enhancement	£05.95	Ebay
 U1	HC-05 bluetooth transceiver		£03.35	Ebay
 U2	9 DOF IMU GY85 ITG3205 ADXL345 MHC5883	£06.00	Ebay
-xx	5x 2.54mm header sockets		£01.19	Ebay
-xx 	24pin DIP Socket for arduino		£01.50	Ebay
-xx	Cable Trunking (Chassis)		Free issue
-xx 	8xAAA Hybrio batteries			Free issue
+
+O1	5x 2.54mm header sockets 6w		£01.19	Ebay
+O2 	24pin DIP Socket for arduino		£01.50	Ebay
+O3	Closed Slot Cable Trunking 25H 50W (mm)	Free issue
+O4 	8xAAA Hybrio batteries			£11.00	Ebay
+O5	Bumper - closed cell foam		Free issue
+O6	Tie wraps 3mm				Free issue
+O7 	2x5cm 3M Dual lock velcro		£01.80	Ebay	
+O8	Child plug cover (IMU Mount)		£01.70	Ebay
+O9	3mm Bolts and nuts x 2			£01.50 	Ebay 	
+O10	Small card tube from kitchen (Motor)	Free issue
+	For exampe off cling film roll.		
+
 
 
