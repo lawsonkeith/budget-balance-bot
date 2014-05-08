@@ -30,4 +30,9 @@ O10	Small card tube from kitchen (Motor)	Free issue
 	For exampe off cling film roll.		
 
 
+Notes
+a. I used a SMT fuseholder and soldered it to the switch
+b. The motors can be found on ebay if you search "6V 133rpm motor"
+c. Make sure you use the 3M velcro; its miles better than the cheap stuff
+d. I used Pro power cable trunking (I think) You can get various types off ebay.  You can also replace it with cardboard or plywood to save more money.
 

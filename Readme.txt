@@ -9,4 +9,6 @@ robotic platform that can be controled (driven) using a bluetooth
 smartphone app.  The platform is optimised for those on a budget who 
 still demand a cool looking robot with fake alloy wheels!!
 
+Uses arduino mini pro; 9 DOF IMU and HC-05 as well as a L9110 motor controller.
+
  
